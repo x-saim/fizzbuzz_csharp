@@ -1,0 +1,14 @@
+/home/labber/CSharpProjects/fizzbuzz_csharp/bin/Debug/net7.0/fizzbuzz_csharp
+/home/labber/CSharpProjects/fizzbuzz_csharp/bin/Debug/net7.0/fizzbuzz_csharp.deps.json
+/home/labber/CSharpProjects/fizzbuzz_csharp/bin/Debug/net7.0/fizzbuzz_csharp.runtimeconfig.json
+/home/labber/CSharpProjects/fizzbuzz_csharp/bin/Debug/net7.0/fizzbuzz_csharp.dll
+/home/labber/CSharpProjects/fizzbuzz_csharp/bin/Debug/net7.0/fizzbuzz_csharp.pdb
+/home/labber/CSharpProjects/fizzbuzz_csharp/obj/Debug/net7.0/fizzbuzz_csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/labber/CSharpProjects/fizzbuzz_csharp/obj/Debug/net7.0/fizzbuzz_csharp.AssemblyInfoInputs.cache
+/home/labber/CSharpProjects/fizzbuzz_csharp/obj/Debug/net7.0/fizzbuzz_csharp.AssemblyInfo.cs
+/home/labber/CSharpProjects/fizzbuzz_csharp/obj/Debug/net7.0/fizzbuzz_csharp.csproj.CoreCompileInputs.cache
+/home/labber/CSharpProjects/fizzbuzz_csharp/obj/Debug/net7.0/fizzbuzz_csharp.dll
+/home/labber/CSharpProjects/fizzbuzz_csharp/obj/Debug/net7.0/refint/fizzbuzz_csharp.dll
+/home/labber/CSharpProjects/fizzbuzz_csharp/obj/Debug/net7.0/fizzbuzz_csharp.pdb
+/home/labber/CSharpProjects/fizzbuzz_csharp/obj/Debug/net7.0/fizzbuzz_csharp.genruntimeconfig.cache
+/home/labber/CSharpProjects/fizzbuzz_csharp/obj/Debug/net7.0/ref/fizzbuzz_csharp.dll
